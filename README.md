@@ -5,7 +5,7 @@
 <p align="center">
 ୨୧⋆˚ ✿ Estudiante de desarrollo de software ✿ ⋆୨୧<br>
 ₊˚ෆ꒰ 🎨 UX / UI · 💻 Frontend · ✨ Creatividad ꒱₊˚ෆ<br>
-₊˚ෆ Diseño interfaces lindas y funcionales ₊˚ෆ
+₊˚ෆ Diseño de interfaces lindas y funcionales ₊˚ෆ
 </p>
 
 <p align="center">
